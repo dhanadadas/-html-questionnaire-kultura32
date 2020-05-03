@@ -6,4 +6,4 @@
 https://kultura32.rane-brf.ru/
 
 
-![alt text](screen-culture.png "Опрос для министрестерства культуры")
+![Фото - Опросник для министерства Культуры](screen-culture.png "Опрос для министерства культуры")
